@@ -2,7 +2,9 @@
 
 ## Prerequisites (Java, GCP, IntelliJ, Git)
 
-### Install Java
+### Install Java (required by App Engine)
+
+### Install Python (required by GCP)
 
 ### Install Google Cloud SDK
 
@@ -14,11 +16,11 @@ https://cloud.google.com/appengine/docs/standard/java11/quickstart
 #### Do
 https://cloud.google.com/appengine/docs/standard/java11/building-app
 
-### Install IntelliJ IDEA
+### Install IntelliJ IDEA (needed to edit Java code)
 
 * Task b: Install IntelliJ IDEA
 
-### Setup Source Control (GitHub)
+### Setup GitHub (source control)
 * Task c: Setup GitHub account
 * Task d: Install git
 
