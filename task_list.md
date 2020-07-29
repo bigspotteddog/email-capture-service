@@ -10,9 +10,9 @@ https://cloud.google.com/appengine/docs/standard/java11/quickstart
 ### Do
 https://cloud.google.com/appengine/docs/standard/java11/building-app
 
-* Task b: Setup GitHub account
-* Task c: Install git
-* Task d: Install IntelliJ IDEA
+* Task b: Install IntelliJ IDEA
+* Task c: Setup GitHub account
+* Task d: Install git
 
 ## Publish landing page
 
