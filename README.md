@@ -19,10 +19,13 @@ https://cloud.google.com/appengine/docs/standard/java11/building-app
 ### Install IntelliJ IDEA (needed to edit Java code)
 
 * Task b: Install IntelliJ IDEA
+  * https://www.jetbrains.com/idea/
 
 ### Setup GitHub (source control)
 * Task c: Setup GitHub account
+  * https://github.com/
 * Task d: Install git
+  * https://git-scm.com/
 
 ## Capture emails (post request to database, send email)
 
