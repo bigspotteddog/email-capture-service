@@ -1,14 +1,18 @@
 # Capture emails (post request to database, send email)
 
-## Install Google Cloud SDK
+## Prerequisites
 
-* Task 0: Install google cloud sdk
+* Task a: Install google cloud sdk
 
 ### Do
 https://cloud.google.com/appengine/docs/standard/java11/quickstart
 
 ### Do
 https://cloud.google.com/appengine/docs/standard/java11/building-app
+
+* Task b: Setup GitHub account
+* Task c: Install git
+* Task d: Install IntelliJ IDEA
 
 ## Publish landing page
 
