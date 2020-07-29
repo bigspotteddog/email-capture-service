@@ -1,16 +1,22 @@
 # Email Capture Service
 
-## Prerequisites
+## Prerequisites (GCP, IntelliJ, Git)
+
+### Install Google Cloud SDK
 
 * Task a: Install google cloud sdk
 
-### Do
+#### Do
 https://cloud.google.com/appengine/docs/standard/java11/quickstart
 
-### Do
+#### Do
 https://cloud.google.com/appengine/docs/standard/java11/building-app
 
+### Install IntelliJ IDEA
+
 * Task b: Install IntelliJ IDEA
+
+### Setup Source Control (GitHub)
 * Task c: Setup GitHub account
 * Task d: Install git
 
