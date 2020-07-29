@@ -10,11 +10,11 @@
 https://cloud.google.com/appengine/docs/standard/java11/quickstart
 * Install Python (required by GCP)
   * https://www.python.org/
+* Install Java 11 (required by App Engine)
+  * https://www.azul.com/downloads/zulu-community/?architecture=x86-64-bit&package=jdk
 
 #### Do
 https://cloud.google.com/appengine/docs/standard/java11/building-app
-* Install Java 11 (required by App Engine)
-  * https://www.azul.com/downloads/zulu-community/?architecture=x86-64-bit&package=jdk
 
 ### Install IntelliJ IDEA (needed to edit Java code)
 
