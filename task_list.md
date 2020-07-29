@@ -2,9 +2,11 @@
 
 ## Prerequisites (Java, GCP, IntelliJ, Git)
 
-### Install Java (required by App Engine)
+### Install Java 11 (required by App Engine)
+https://www.azul.com/downloads/zulu-community/?architecture=x86-64-bit&package=jdk
 
 ### Install Python (required by GCP)
+https://www.python.org/
 
 ### Install Google Cloud SDK
 
