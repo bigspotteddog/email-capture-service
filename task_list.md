@@ -4,6 +4,12 @@
 
 Task 0: Install google cloud sdk
 
+### Do
+https://cloud.google.com/appengine/docs/standard/java11/quickstart
+
+### Do
+https://cloud.google.com/appengine/docs/standard/java11/building-app
+
 ## Publish landing page
 
 Task 1: Get template landing page hosted on the Internet
