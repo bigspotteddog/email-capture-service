@@ -1,6 +1,6 @@
 # Email Capture Service
 
-## Prerequisites (Java, GCP, IntelliJ, Git)
+## Prerequisites (Google Cloud, Java, Python, IntelliJ, GitHub)
 
 ### Install Google Cloud SDK
 
@@ -8,10 +8,10 @@
 
 #### Do
 https://cloud.google.com/appengine/docs/standard/java11/quickstart
-* Install Python (required by GCP)
-  * https://www.python.org/
 * Install Java 11 (required by App Engine)
   * https://www.azul.com/downloads/zulu-community/?architecture=x86-64-bit&package=jdk
+* Install Python (required by GCP)
+  * https://www.python.org/
 
 #### Do
 https://cloud.google.com/appengine/docs/standard/java11/building-app
@@ -19,13 +19,10 @@ https://cloud.google.com/appengine/docs/standard/java11/building-app
 ### Install IntelliJ IDEA (needed to edit Java code)
 
 * Task b: Install IntelliJ IDEA
-  * https://www.jetbrains.com/idea/
 
 ### Setup GitHub (source control)
 * Task c: Setup GitHub account
-  * https://github.com/
 * Task d: Install git
-  * https://git-scm.com/
 
 ## Capture emails (post request to database, send email)
 
