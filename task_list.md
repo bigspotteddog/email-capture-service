@@ -1,6 +1,6 @@
 # Email Capture Service
 
-## Prerequisites (Google Cloud, Java, Python, IntelliJ, Git)
+## Prerequisites (Google Cloud, Java, Python, IntelliJ, GitHub)
 
 ### Install Google Cloud SDK
 
